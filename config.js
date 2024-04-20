@@ -11,7 +11,7 @@ import { en, es, id, ar, pt, fr } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["5493795328554", '𝐌𝐘𝐋𝐈𝐍𝐆𝐁𝐎𝐓-𝐌𝐃', false],
+["994402215429", '𝐌𝐘𝐋𝐈𝐍𝐆𝐁𝐎𝐓-𝐌𝐃', false],
 ["5492964650915", '𝐖𝐢𝐥𝐬𝐨𝐧𝐎𝐅𝐂', true],
 ["5493795319022", '𝐃𝐒𝐊 - 𝐆𝐋 𝐘𝐓 𝐌𝐗', true],
 ['573012482597', '𝐃𝐢𝐞𝐠𝐨 𝐎𝐟𝐜', true],
@@ -35,7 +35,7 @@ global.Key360 = ["964f-0c75-7afc"]
 //  en = English         pt = Português 
 //  ar = عرب
 
-global.lenguajeMY = es //Idioma de 𝑴𝒚𝒍𝒊𝒏𝒈𝑩𝒐𝒕-𝑴𝑫, Ejemplo: es | en | pt...
+global.lenguajeMY = ar //Idioma de 𝑴𝒚𝒍𝒊𝒏𝒈𝑩𝒐𝒕-𝑴𝑫, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -179,7 +179,7 @@ global.wait = "*⌛ _Cargando ..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando ..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando ..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando ..._ ▬▬▬▬▬▬▭*"
-global.nomorown = "5492964650915"
+global.nomorown = "994402215429"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
